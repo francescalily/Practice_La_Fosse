@@ -5,7 +5,7 @@ My name is **Franki**, I'm *24* years old and from Leeds.
 I am an aspiring web developer and designer.
 Here is a link to my wesbite! [furdakfurdak](https://francescalily.github.io/)
 
-I am ==so excited== to start La Fosse academy because my knowledge is going to grow in all these areas:
+I am ==so excited==. to start La Fosse academy because my knowledge is going to grow in all these areas:
 - [ ] APIs
 - [ ] Cybersecurity
 - [ ] Data Science
